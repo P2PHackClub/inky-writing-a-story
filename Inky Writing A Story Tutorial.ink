@@ -203,7 +203,7 @@ Okay, now it's time to save your file! Click "File", at the top of your screen, 
 Now go on, and create an epic choose your own adventure story!
 Next time, we will be exporting these into standalone websites for sharing, and some of you might want to export it into your own \*\*videogame\*\*.
 
-If you want to learn more about ink's features (we only taught you about a couple, but there are some very powerful things you can do!), check out their official manual (https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md), or their getting started guide (https://www.inklestudios.com/ink/web-tutorial/).
+If you want to learn more about ink's features (we only taught you about a couple, but there are some very powerful things you can do!), check out their official manual (https:\/\/github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md), or their getting started guide (https:\/\/www.inklestudios.com/ink/web-tutorial/).
 
 bai 👋😄
 
